@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DAY one-word domains still available to buy.
 
-This dataset contains 4,631 .DAY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,630 .DAY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DAY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=description.top) (4,632) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.DAY one word domains]
 | aaron.day      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.day  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.day      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.day  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.day  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.day    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.day     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.day   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.DAY one word domains]
 | abbatial.day   | available | 50       | 1%     | 8      |           |         |         |
 | abc.day        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.day  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.day  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.day  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.day | available | 56       | 1%     | 10     |           |         |         |
 | abducens.day   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.day   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.DAY one word domains]
 | aberdonian.day | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.day   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.day    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.day  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.day  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.day    | available | 106      | 5%     | 7      |           |         |         |
 | abient.day     | available | 54       | 1%     | 6      |           |         |         |
 | ability.day    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.DAY one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
