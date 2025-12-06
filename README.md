@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DAY one-word domains still available to buy.
 
-This dataset contains 4,630 .DAY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,628 .DAY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DAY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=description.top) (4,632) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.DAY one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.day        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.day      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.day        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.day      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.day  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.day      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.day  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.DAY one word domains]
 | abatic.day     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.day    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.day   | available | 50       | 1%     | 8      |           |         |         |
-| abc.day        | available | 102      | 41%    | 3      |           |         |         |
+| abc.day        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.day  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.day  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.day | available | 56       | 1%     | 10     |           |         |         |
