@@ -71,7 +71,7 @@ print(df.head())
 | cozy.day       | resell    | —         | —             | 110            | 37     | 4      | GoDaddy.com, LLC            |
 | power.day      | premium   | $648.70   | $648.70       | 98             | 62     | 5      | namecheap                   |
 | adept.day      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com                    |
-| robotic.day    | resell    | —         | —             | 72             | 32     | 7      | Dynadot LLC.                |
+| robotic.day    | resell    | —         | —             | 72             | 30     | 7      | Dynadot LLC.                |
 | seventeen.day  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com                    |
 | remedial.day   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com                    |
 | dick.day       | resell    | —         | —             | 56             | 30     | 4      | Porkbun LLC                 |
