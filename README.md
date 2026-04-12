@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .day one-word domains from Unique 
 
 **Public extract:** 9,329 rows · **Live catalog:** 9,329 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/day`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | nationwide.day | available | $14.99    | $19.99        | 76             | 66     | 10     | name.com                    |
 | lucky.day      | resell    | —         | —             | 76             | 42     | 5      | Sav.com, LLC                |
 | gold.day       | premium   | $1,298.70 | $1,298.70     | 72             | 99     | 4      | namecheap                   |
-| adept.day      | available | $14.99    | $19.99        | 92             | 27     | 5      | name.com                    |
+| curative.day   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com                    |
 | cozy.day       | resell    | —         | —             | 110            | 37     | 4      | GoDaddy.com, LLC            |
 | power.day      | premium   | $648.70   | $648.70       | 98             | 62     | 5      | namecheap                   |
-| curative.day   | available | $14.99    | $19.99        | 92             | 27     | 8      | name.com                    |
+| adept.day      | available | $14.99    | $19.99        | 92             | 26     | 5      | name.com                    |
 | robotic.day    | resell    | —         | —             | 72             | 32     | 7      | Dynadot LLC.                |
 | seventeen.day  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com                    |
 | remedial.day   | available | $14.99    | $19.99        | 86             | 24     | 8      | name.com                    |
@@ -81,7 +81,7 @@ print(df.head())
 | ace.day        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com                    |
 | sincere.day    | available | $14.99    | $19.99        | 72             | 22     | 7      | name.com                    |
 | halloween.day  | resell    | —         | —             | 80             | 27     | 9      | Squarespace Domains II LLC. |
-| alpha.day      | premium   | $623.75   | $623.75       | 90             | 53     | 5      | name.com                    |
+| alpha.day      | premium   | $623.75   | $623.75       | 90             | 54     | 5      | name.com                    |
 | defined.day    | available | $14.99    | $19.99        | 68             | 21     | 7      | name.com                    |
 | spine.day      | resell    | —         | —             | 70             | 24     | 5      | GoDaddy.com, LLC            |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
