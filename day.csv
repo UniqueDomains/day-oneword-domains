@@ -897,6 +897,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f698f65-6483-4679-967d-584afda67e38,wanttobet.day,available,16.98,,62,1,11,namecheap,,
 4f7a71a8-7c9c-4f99-b17e-199126b98a4f,dusts.day,available,16.98,,52,3,5,namecheap,,
 4faf945e-cc95-4536-8cfe-63b093251a40,recruited.day,available,16.98,,58,5,9,namecheap,,
+4fbeee0a-903e-49c1-982d-f0fb3e38c8c5,notion.day,premium,,,74,29,6,,,
 4fc4c2a6-fb9a-4f8f-86e7-2e3b70adc913,letlie.day,available,16.98,,72,1,7,namecheap,,
 4ff3a817-5746-4c65-99ac-b86000886afa,thesame.day,premium,36.25,,54,5,8,name.com,,
 50026083-faa6-483a-8377-0f2294a16f56,teenyweeny.day,available,16.98,,78,2,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57dd5be3-01d2-48e2-8a47-5cc660f66863,newsstand.day,available,16.98,,52,5,10,namecheap,,
 57f0e2e3-6b14-405c-bc74-eb0dd857d830,units.day,premium,161.25,,56,16,5,name.com,,
 57f453a4-e183-4a0c-b534-eb18d09f3624,goAWOL.day,available,16.98,,46,2,7,namecheap,,
-58073456-0745-44e3-b652-772e80d9d368,SantaClara.day,available,16.98,,75,9,11,namecheap,,
