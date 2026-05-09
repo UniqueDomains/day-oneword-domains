@@ -774,6 +774,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 44dbeb96-c61b-4e05-bda2-0500d9027c74,lordover.day,available,16.98,,72,1,9,namecheap,,
 44f1373c-fcd7-418b-9fec-09bb738a3615,havethefoggiest.day,available,16.98,,54,1,17,namecheap,,
 45456c25-4b13-4329-ae96-11d33d7b69e2,chairmen.day,available,16.98,,58,3,8,namecheap,,
+454c7081-e497-4831-950b-4ba7a804158b,tech.day,premium,,,86,48,4,,,
 457586b5-73d6-4944-9ffe-26171addb884,Williamson.day,available,16.98,,60,13,10,namecheap,,
 45995299-4123-401c-9294-12d061a519c9,cheesedown.day,available,16.98,,62,0,11,namecheap,,
 459f430f-3e45-4a8d-b84c-34352ae63b80,spellingbook.day,available,16.98,,48,1,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 578e5ad8-0189-4227-bca7-70065d460b12,managers.day,premium,36.25,,56,10,8,name.com,,
 57dd5be3-01d2-48e2-8a47-5cc660f66863,newsstand.day,available,16.98,,52,5,10,namecheap,,
 57f0e2e3-6b14-405c-bc74-eb0dd857d830,units.day,premium,161.25,,56,16,5,name.com,,
-57f453a4-e183-4a0c-b534-eb18d09f3624,goAWOL.day,available,16.98,,46,2,7,namecheap,,
