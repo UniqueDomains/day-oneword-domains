@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .day one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $69.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/day`  
 **Best for:** founders, investors, studios
 
@@ -71,9 +71,9 @@ print(df.head())
 | motorsport.day    | available | $16.98    | —             | 74             | 23     | 10     | namecheap |
 | skills.day        | premium   | $623.75   | —             | 58             | 47     | 6      | name.com  |
 | HarryPotter.day   | available | $16.98    | —             | 72             | 20     | 12     | namecheap |
-| jobs.day          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
+| whynot.day        | premium   | $161.25   | —             | 74             | 44     | 7      | name.com  |
 | smartest.day      | available | $16.98    | —             | 64             | 20     | 8      | namecheap |
-| whynot.day        | premium   | $161.25   | —             | 74             | 39     | 7      | name.com  |
+| jobs.day          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
 | whitewater.day    | available | $16.98    | —             | 82             | 17     | 11     | namecheap |
 | WiFi.day          | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap |
 | Automobiles.day   | available | $16.98    | —             | 62             | 17     | 11     | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
