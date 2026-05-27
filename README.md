@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .day one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $69.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/day`  
 **Best for:** founders, investors, studios
 
@@ -79,9 +79,9 @@ print(df.head())
 | Automobiles.day   | available | $16.98    | —             | 62             | 17     | 11     | namecheap |
 | teams.day         | premium   | $161.25   | —             | 62             | 32     | 5      | name.com  |
 | bonvoyage.day     | available | $16.98    | —             | 88             | 16     | 10     | namecheap |
-| partners.day      | premium   | $311.25   | —             | 61             | 32     | 8      | name.com  |
-| gearup.day        | available | $16.98    | —             | 80             | 16     | 7      | namecheap |
 | William.day       | premium   | $348.60   | $348.60       | 74             | 31     | 7      | namecheap |
+| gearup.day        | available | $16.98    | —             | 80             | 16     | 7      | namecheap |
+| partners.day      | premium   | $311.25   | —             | 61             | 31     | 8      | name.com  |
 | runners.day       | available | $16.98    | —             | 78             | 16     | 7      | namecheap |
 | solutions.day     | premium   | $623.75   | —             | 56             | 31     | 9      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
