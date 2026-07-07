@@ -1,10 +1,10 @@
-# Available .DAY One-Word Domains (12,265)
+# Available .DAY One-Word Domains (12,266)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C265%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C266%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .day one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,265 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,266 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $69.85 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,266 domains · **Median ask:** $105.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/day`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/day`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DAY one-word domain c
 
 ### Files
 
-- `day.csv` — public CSV extract (1,000 rows)
-- `day.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `day.csv`, public CSV extract (1,000 rows)
+- `day.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| keepthechange.day | available | $16.98    | —             | 46             | 59     | 15     | namecheap |
-| insight.day       | premium   | $161.25   | —             | 76             | 69     | 8      | name.com  |
-| commonground.day  | available | $16.98    | —             | 74             | 28     | 13     | namecheap |
-| farmers.day       | premium   | $161.25   | —             | 54             | 59     | 7      | name.com  |
-| motorsport.day    | available | $16.98    | —             | 74             | 23     | 10     | namecheap |
-| skills.day        | premium   | $623.75   | —             | 58             | 47     | 6      | name.com  |
-| HarryPotter.day   | available | $16.98    | —             | 72             | 20     | 12     | namecheap |
-| whynot.day        | premium   | $161.25   | —             | 74             | 44     | 7      | name.com  |
-| smartest.day      | available | $16.98    | —             | 64             | 20     | 8      | namecheap |
-| jobs.day          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| whitewater.day    | available | $16.98    | —             | 82             | 17     | 11     | namecheap |
-| WiFi.day          | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap |
-| Automobiles.day   | available | $16.98    | —             | 62             | 17     | 11     | namecheap |
-| teams.day         | premium   | $161.25   | —             | 62             | 32     | 5      | name.com  |
-| bonvoyage.day     | available | $16.98    | —             | 88             | 16     | 10     | namecheap |
-| William.day       | premium   | $348.60   | $348.60       | 74             | 31     | 7      | namecheap |
-| gearup.day        | available | $16.98    | —             | 80             | 16     | 7      | namecheap |
-| partners.day      | premium   | $311.25   | —             | 61             | 31     | 8      | name.com  |
-| runners.day       | available | $16.98    | —             | 78             | 16     | 7      | namecheap |
-| solutions.day     | premium   | $623.75   | —             | 56             | 31     | 9      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| action.day | premium   | $623.75   | —             | high           | medium | 6      | name.com    |
+| howl.day   | available | $16.98    | —             | high           | low    | 4      | namecheap   |
+| dick.day   | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC |
+| add.day    | premium   | $623.75   | —             | high           | low    | 3      | name.com    |
+| torn.day   | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
+| bce.day    | premium   | $73.75    | —             | medium         | low    | 3      | name.com    |
+| veal.day   | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
+| btw.day    | premium   | $73.75    | —             | high           | low    | 3      | name.com    |
+| aftuh.day  | available | $16.98    | —             | medium         | low    | 5      | namecheap   |
+| dad.day    | premium   | $1,248.75 | —             | high           | low    | 3      | name.com    |
+| aside.day  | available | $16.98    | —             | high           | low    | 5      | namecheap   |
+| dry.day    | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com    |
+| asof.day   | available | $16.98    | —             | medium         | low    | 5      | namecheap   |
+| dvd.day    | premium   | $311.25   | —             | high           | low    | 3      | name.com    |
+| fired.day  | available | $14.99    | $19.99        | medium         | low    | 5      | name.com    |
+| ego.day    | premium   | $623.75   | —             | medium         | low    | 3      | name.com    |
+| fling.day  | available | $16.98    | —             | medium         | low    | 5      | namecheap   |
+| fit.day    | premium   | $1,248.75 | —             | high           | medium | 3      | name.com    |
+| girth.day  | available | $16.98    | —             | high           | low    | 5      | namecheap   |
+| hug.day    | premium   | $161.25   | —             | high           | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,265 live domains                        |
+| 1,000-row public sample | 12,266 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .day domains. The naming style is concise and easy to scan, but the extension gives each term a time-based or event-driven feel. That can work well for campaigns, editorial concepts, recurring experiences, and brands that want a distinctive ending. In this selection, examples range from broad words such as wise.day and care.day to sharper terms like analyst.day, breakeven.day, and evil.day. When comparing these domains, start with word strength first: clarity, memorability, and fit with the meaning created by .day. Then check ask price, renewal terms, pronunciation, and any trademark conflicts around the exact word in your target market.
+This selection covers one-word and short-phrase .day domain names such as jetblack.day, tips.day, and feel.day. With 12,266 domains and a median ask near $105, the set spans everyday verbs, niche activities, and calendar-inspired terms — offering both quick, ownable picks for founders and a broad base for investors scanning early TLD adoption.
 
-- One-word .day names with concise, memorable wording
-- Median ask across this selection is $69.85
-- Strong fits include editorial, event, and campaign concepts
-- Check exact-word trademark risk before committing
+- 12,266 one-word .day domains in this set
+- Median ask near $105 — budget-friendly entry point
+- Mix of short verbs, niche terms & calendar-style names
+- Updated daily to reflect current listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
