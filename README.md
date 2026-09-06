@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .day one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,182 domains · **Median ask:** $64.78 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/day`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| action.day    | premium   | $623.75   | —             | high           | medium | 6      | name.com    |
-| something.day | premium   | $311.25   | —             | high           | low    | 9      | name.com    |
-| boer.day      | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
-| dick.day      | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC |
-| add.day       | premium   | $623.75   | —             | high           | low    | 3      | name.com    |
-| clxx.day      | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
-| bce.day       | premium   | $73.75    | —             | medium         | low    | 3      | name.com    |
-| howl.day      | available | $16.98    | —             | high           | low    | 4      | namecheap   |
-| btw.day       | premium   | $73.75    | —             | high           | low    | 3      | name.com    |
-| lxxi.day      | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
-| dad.day       | premium   | $1,248.75 | —             | high           | low    | 3      | name.com    |
-| torn.day      | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
-| dry.day       | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com    |
-| veal.day      | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
-| dvd.day       | premium   | $311.25   | —             | high           | low    | 3      | name.com    |
-| xxxv.day      | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
-| ego.day       | premium   | $623.75   | —             | medium         | low    | 3      | name.com    |
-| aftuh.day     | available | $16.98    | —             | medium         | low    | 5      | namecheap   |
-| fit.day       | premium   | $1,248.75 | —             | high           | medium | 3      | name.com    |
-| anile.day     | available | $12.98    | $16.98        | low            | low    | 5      | namecheap   |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| boer.day  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
+| dick.day  | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC |
+| add.day   | premium   | $623.75   | —             | high           | low    | 3      | name.com    |
+| clxx.day  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
+| bce.day   | premium   | $73.75    | —             | medium         | low    | 3      | name.com    |
+| howl.day  | available | $16.98    | —             | high           | low    | 4      | namecheap   |
+| btw.day   | premium   | $73.75    | —             | high           | low    | 3      | name.com    |
+| lxxi.day  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
+| dad.day   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com    |
+| torn.day  | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
+| dry.day   | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com    |
+| veal.day  | available | $16.98    | —             | medium         | low    | 4      | namecheap   |
+| dvd.day   | premium   | $311.25   | —             | high           | low    | 3      | name.com    |
+| xxxv.day  | available | $12.98    | $16.98        | low            | low    | 4      | namecheap   |
+| ego.day   | premium   | $623.75   | —             | medium         | low    | 3      | name.com    |
+| aftuh.day | available | $16.98    | —             | medium         | low    | 5      | namecheap   |
+| fit.day   | premium   | $1,248.75 | —             | high           | medium | 3      | name.com    |
+| anile.day | available | $12.98    | $16.98        | low            | low    | 5      | namecheap   |
+| hug.day   | premium   | $161.25   | —             | high           | low    | 3      | name.com    |
+| ashen.day | available | $12.98    | $16.98        | low            | low    | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
