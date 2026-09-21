@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 b7de5064-1090-466c-b61f-75f187d91b03,vacuous.day,available,12.98,16.98,low,low,7,namecheap,,,07/08/2026 02:52
-c107a825-69e0-4007-8270-555cd737b841,Keys.day,premium,311.25,,medium,medium,4,name.com,,,
+c107a825-69e0-4007-8270-555cd737b841,keys.day,premium,311.25,,medium,medium,4,name.com,,,
 bb3e4114-5486-46b6-ac3a-2cb07a80d5d4,btw.day,premium,73.75,,high,low,3,name.com,,,
 21c22b1d-4bae-47f1-a061-b0ebdd2f4002,technologies.day,premium,73.75,,low,low,12,name.com,,,
 5c0e9729-1225-4fa9-b1b9-f5c48b4db103,bodycavity.day,available,16.98,,medium,low,11,namecheap,,,
@@ -16,7 +16,7 @@ a1289035-bd8e-404f-b050-c37057b7eeac,garret.day,available,12.98,16.98,low,low,6,
 d4a328f9-80ba-4840-a08f-3f8b92a115b2,alkalizer.day,available,12.98,16.98,low,low,9,namecheap,,,
 9543c97f-863a-44c9-a4b5-dc8bc383585f,newspaper.day,premium,311.25,,high,low,9,name.com,,,
 d956723c-e783-4933-8ee9-581e134815a6,molecules.day,available,16.98,,medium,low,9,namecheap,,,
-6773fdc3-da82-427c-9608-38cd752fc836,science.day,premium,648.7,648.7,medium,medium,7,namecheap,,,08/09/2026 14:15
+6773fdc3-da82-427c-9608-38cd752fc836,science.day,premium,648.7,648.7,medium,low,7,namecheap,,,20/09/2026 21:50
 bf0f0abf-69c2-4756-9c28-bd030e7b32d0,silotruck.day,available,16.98,,medium,low,10,namecheap,,,
 36f99649-18cd-46b0-863e-8ed6cb4743f3,temporary.day,premium,36.25,,high,low,9,name.com,,,
 f0d55c7d-f952-4baf-bd0d-1be3bd87e7ac,asthecasemaybe.day,available,16.98,,medium,low,18,namecheap,,,
@@ -48,7 +48,7 @@ cf12d0f4-6fae-4eea-891b-5493b0c5433b,rein.day,premium,36.25,,high,low,4,name.com
 f298c27d-f958-453c-953a-98a641a19be2,seized.day,available,16.98,,medium,low,6,namecheap,,,
 49d775db-b534-4c70-9b70-d3a6970553a0,childsexualabuse.day,available,16.98,,medium,low,18,namecheap,,,
 23a9e036-8b21-49f7-a8ac-c41bfd5e1e1a,thelike.day,available,16.98,,medium,low,8,namecheap,,,
-46dc4226-6e7c-4a69-a0c2-00e19924261f,payment.day,premium,1248.75,,high,low,7,name.com,,,
+46dc4226-6e7c-4a69-a0c2-00e19924261f,payment.day,premium,1298.7,1298.7,medium,low,7,namecheap,,,20/09/2026 02:57
 c8d4e8fd-7b7f-44ba-956a-4bcf3bde4b57,ancillary.day,available,12.98,16.98,low,low,9,namecheap,,,
 e39efc05-0af4-4f95-bb5a-b87a978440ec,passionate.day,premium,36.25,,high,low,10,name.com,,,
 5f73f94f-7d7b-48b9-b369-86cd23183502,splashabout.day,available,16.98,,low,low,12,namecheap,,,
@@ -65,7 +65,7 @@ c5e336e1-5ee5-458e-b9a5-7c6356b86219,atlast.day,available,16.98,,high,low,7,name
 a4d5808d-7d83-4c15-93f8-25d8ef1d091f,dissonant.day,available,12.98,16.98,low,low,9,namecheap,,,07/08/2026 12:26
 dabe934f-5818-4b77-86e6-a6bfd6c43d18,algometric.day,available,12.98,16.98,low,low,10,namecheap,,,
 b853b2ec-09c0-4880-842d-ea30dd243bc2,outsideof.day,available,16.98,,medium,low,10,namecheap,,,
-f090297f-6574-4be8-a250-69b21689af1c,IDcard.day,premium,36.25,,high,low,7,name.com,,,
+f090297f-6574-4be8-a250-69b21689af1c,idcard.day,premium,36.25,,high,low,7,name.com,,,
 04a46561-6443-4e27-a22d-ee41111c4eba,anomic.day,available,12.98,16.98,low,low,6,namecheap,,,
 6afae9fd-2320-491d-ad89-ebcc6238c4bb,bizarre.day,premium,36.25,,high,low,7,name.com,,,
 6475b5f6-0837-42c7-836e-048756bc8639,dominating.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 19:40
@@ -90,7 +90,7 @@ b85873ba-64b0-459e-b77e-b81ad25fed78,trillionaire.day,available,16.98,,high,low,
 51e7ae1c-0b00-4a4e-a352-d0c5924e9614,unsatisfactory.day,available,16.98,,medium,low,14,namecheap,,,
 0ba6143b-bf13-4216-8690-50d99d39b364,oarblade.day,available,16.98,,medium,low,9,namecheap,,,
 c2541c95-ad6c-4f24-88c6-ede876c9c61b,independenceday.day,available,16.98,,high,low,16,namecheap,,,
-55c38f7e-74fc-4e74-8d92-370b0ddb8833,Katy.day,premium,73.75,,high,low,4,name.com,,,
+55c38f7e-74fc-4e74-8d92-370b0ddb8833,katy.day,premium,73.75,,high,low,4,name.com,,,
 0c1456a9-b63c-403e-804f-77776dd03dc5,acquitted.day,available,12.98,16.98,low,low,9,namecheap,,,
 cd9f433a-c2b2-4819-b9e6-5d581352fb53,falls.day,premium,73.75,,high,low,5,name.com,,,
 521f8d90-2683-40fd-be8e-83573b86be40,scandal.day,premium,73.75,,medium,low,7,name.com,,,
@@ -128,7 +128,7 @@ be51e7e1-27d7-4651-8d6a-8ca39a39eed4,alltime.day,premium,36.25,36.25,high,low,8,
 eafb4f25-7ae8-4749-98ef-1e18af3f1be9,astrocytic.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 10:06
 ade37496-8014-4d4a-8ae2-3d9f0533899f,accessory.day,premium,36.25,36.25,high,low,9,name.com,,,
 f3e065c8-7ecf-46ee-8020-ae73243aa1b8,occur.day,available,16.98,,high,low,5,namecheap,,,
-d2a985de-5e7d-4c21-8291-6cfa90662dff,processed.day,available,16.98,,medium,low,9,namecheap,,,
+d2a985de-5e7d-4c21-8291-6cfa90662dff,processed.day,available,12.98,16.98,low,low,9,namecheap,,,19/09/2026 13:08
 a3acddb5-b07c-43cb-a8f3-5bff3a215e66,rapidantigentest.day,available,16.98,,high,low,18,namecheap,,,
 af176f72-a5c9-441f-8d56-d4a887dfeaec,ascendable.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 00:35
 990e1d4f-cc1e-4db1-9603-d087070663d3,aortic.day,available,12.98,16.98,low,low,6,namecheap,,,05/08/2026 21:54
@@ -144,7 +144,7 @@ bb24721f-5c6d-4d99-957c-194cc671b7ad,clxx.day,available,12.98,16.98,low,low,4,na
 2e396ab0-f184-4e9f-aa1b-fd05373f81f6,they.day,premium,311.25,,high,low,4,name.com,,,
 92bd1570-a500-44cb-9780-314f83006ade,turncoat.day,available,12.98,16.98,low,low,8,namecheap,,,06/08/2026 03:49
 e5ce4719-edf5-406d-b716-375c8aabcf81,youknowit.day,available,16.98,,high,low,11,namecheap,,,
-f2fb03ea-8705-4596-9797-4ac974f0db7e,MexicoCity.day,available,16.98,,medium,low,11,namecheap,,,
+f2fb03ea-8705-4596-9797-4ac974f0db7e,mexicocity.day,available,16.98,,medium,low,11,namecheap,,,
 6d10d721-5f9f-4b7a-9eac-8169fa131bf5,road.day,premium,623.75,,high,low,4,name.com,,,
 8d471c42-5376-4c7d-97c6-f445f4c5a7a3,shoplift.day,available,16.98,,high,low,8,namecheap,,,
 2f5c2291-9dd2-4fc2-a7ec-b99a7f6b762c,recipient.day,available,16.98,,high,low,9,namecheap,,,
@@ -164,15 +164,15 @@ cbda1e2f-42a2-4636-b6a9-4279db79a875,aphoristic.day,available,12.98,16.98,low,lo
 325849ac-1e63-4228-8c63-db8792c84f49,hightide.day,available,16.98,,medium,low,9,namecheap,,,
 dd7a3a84-063c-4e20-9cd7-b33bb1cc764e,fungicide.day,available,12.98,16.98,low,low,9,namecheap,,,
 4fa8de91-6728-4237-acb1-d79b09646f4f,nowandthen.day,available,16.98,,low,low,12,namecheap,,,
-27a2524f-bacd-4c00-8bfd-444d60227581,LLP.day,premium,73.75,,high,low,3,name.com,,,
+27a2524f-bacd-4c00-8bfd-444d60227581,llp.day,premium,73.75,,high,low,3,name.com,,,
 b3161249-8450-45ba-b580-58bed3889b56,valued.day,available,16.98,,high,low,6,namecheap,,,
-ce6bfb19-22b4-434d-9742-b546f1ca1aae,Philadelphia.day,premium,73.75,,high,low,12,name.com,,,
+ce6bfb19-22b4-434d-9742-b546f1ca1aae,philadelphia.day,premium,73.75,,high,low,12,name.com,,,
 81d804e7-5e7f-41ae-98a0-8cfe909531a8,solo.day,premium,623.75,,high,medium,4,name.com,,,
 ec4e77bc-d3d2-4e51-97b8-ede8371e87f7,aneurismal.day,available,12.98,16.98,low,low,10,namecheap,,,
 87517f58-5067-4dab-9853-d74423c4ab24,elegant.day,premium,161.25,161.25,high,low,7,name.com,,,
 bc27d586-6b56-4ee7-805a-d464fad6e386,spot.day,premium,311.25,,high,medium,4,name.com,,,
 433f8a29-dc79-4799-b9dd-abfe4c2b0620,artesian.day,available,12.98,16.98,low,low,8,namecheap,,,06/08/2026 22:39
-43a57e7b-4ec2-4ad2-95ac-c9a44aafd3ee,IamwhatIam.day,available,16.98,,medium,low,14,namecheap,,,
+43a57e7b-4ec2-4ad2-95ac-c9a44aafd3ee,iamwhatiam.day,available,16.98,,medium,low,14,namecheap,,,
 e0ffcc4c-5bd2-4038-b0d3-e474a6dbf535,ninetysix.day,available,12.98,16.98,low,low,10,namecheap,,,
 1da341a9-c038-437a-8e20-616f573da6c1,asymptotic.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 10:30
 062e0157-2b4b-4936-8ba9-959573899a49,developing.day,premium,73.75,73.75,high,low,10,name.com,,,
@@ -181,7 +181,7 @@ abd100d0-f2fe-4a17-8903-19dbd54cdaeb,black.day,premium,623.75,,high,medium,5,nam
 f3bd2f22-6719-4b2d-bef2-aeecb858e322,complex.day,premium,161.25,161.25,high,low,7,name.com,,,
 616bf347-14f3-4eb1-898a-4c3d8127db46,treehugger.day,available,16.98,,medium,low,11,namecheap,,,
 291db33a-e8e0-4a14-ae17-1f9e6ff74284,rigorous.day,available,16.98,,medium,low,8,namecheap,,,
-5bdb48b7-971c-4822-833a-410c4b594093,Powers.day,premium,161.25,,high,low,6,name.com,,,
+5bdb48b7-971c-4822-833a-410c4b594093,powers.day,premium,161.25,,high,low,6,name.com,,,
 c91448e7-ab9d-4374-9d14-3840cd24493c,destructive.day,available,16.98,,medium,low,11,namecheap,,,
 cfa92e6a-5207-4522-ac55-5b11ec3e8d23,teamup.day,premium,36.25,,high,low,7,name.com,,,
 07803194-80b3-47d3-a9e8-1f211a56bd3a,olympics.day,available,16.98,,medium,low,8,namecheap,,,
@@ -190,12 +190,11 @@ cfbf4aae-568d-4c96-a893-ad00f02b42aa,offhanded.day,available,12.98,16.98,low,low
 20cf50e7-5e4b-4db7-83f5-ead722483071,supermarket.day,premium,36.25,,high,low,11,name.com,,,
 6534db88-2d74-463f-95e5-3c8cff762f6a,discover.day,available,,,medium,low,8,,,,
 9c78eeee-b470-4cc2-8aba-10a96dd2e573,brain.day,premium,623.75,,high,medium,5,name.com,,,
-8dbb1b14-b903-4c08-a0b4-384b7773a076,health.day,available,,,high,low,6,,,,
 cb035f78-2318-4e86-9d25-b889618b497b,preventive.day,available,14.99,19.99,high,low,10,name.com,,,
 5b3de458-d331-4bd6-9125-23c90f59f67b,wandering.day,available,16.98,,high,low,9,namecheap,,,
 22c50a24-a23b-4d8e-9134-89dc3f507601,mothahfucker.day,available,16.98,,medium,low,12,namecheap,,,
 e413e941-a4a0-4791-a984-abc40b3d8e19,sloppy.day,available,12.98,16.98,low,low,6,namecheap,,,08/08/2026 08:22
-558f3a67-6390-4979-ab84-9d78afa57499,Adidas.day,available,16.98,,high,low,6,namecheap,,,
+558f3a67-6390-4979-ab84-9d78afa57499,adidas.day,available,16.98,,high,low,6,namecheap,,,
 dd7fec6e-b670-40e9-ac45-223195b6d053,havingsaidthat.day,available,16.98,,medium,low,16,namecheap,,,
 441113ed-fbc4-47a3-93f8-1a8e6e455629,bce.day,premium,73.75,,medium,low,3,name.com,,,
 5ce8e0f7-aaa1-4346-af73-6105fa8c35b6,havethehotsfor.day,available,16.98,,medium,low,17,namecheap,,,
@@ -211,7 +210,7 @@ a65ce8b0-3d81-42fd-8c47-48ed6942d36b,monthly.day,premium,161.25,,high,low,7,name
 de0284bc-ff34-428b-be0e-ea25f42c8808,localtime.day,available,16.98,,medium,low,10,namecheap,,,
 feb4340a-d6f2-48fd-a0bc-6ede367fcce4,poignant.day,available,12.98,16.98,low,low,8,namecheap,,,
 c04c3fa3-e041-4ee8-98e5-3e0277dbd692,dating.day,premium,1248.75,,high,low,6,name.com,,,
-8fec00ab-8d2d-49a8-a19a-0849add8bf26,Englishmuffin.day,available,16.98,,high,low,14,namecheap,,,
+8fec00ab-8d2d-49a8-a19a-0849add8bf26,englishmuffin.day,available,16.98,,high,low,14,namecheap,,,
 5ca6e02b-a42e-4b39-bf75-9d1ec5499867,unmannerly.day,available,12.98,16.98,low,low,10,namecheap,,,08/08/2026 07:32
 5df77e17-1345-4d51-8e73-0a31aa18cb8b,ink.day,premium,311.25,,high,medium,3,name.com,,,
 c7890660-2a0a-4b0b-a566-58c3223780c7,asofyet.day,available,16.98,,medium,low,9,namecheap,,,
@@ -236,12 +235,12 @@ d605c59b-6661-4946-bf9c-5d7f79344b38,towed.day,available,16.98,,low,low,5,namech
 a1cd6190-6685-4bde-b669-6e02c0f9fe0f,eleventh.day,available,12.98,16.98,low,low,8,namecheap,,,
 ea817a4e-985a-4cb0-b1a2-cea6398cfa2d,midships.day,available,12.98,16.98,low,low,8,namecheap,,,
 7720b203-8966-47a1-afef-f3421ee5a0c8,underwear.day,premium,73.75,,medium,low,9,name.com,,,
-87f00dc0-b8c2-4801-aa96-ef05ef79690b,technically.day,available,12.98,16.98,low,low,11,namecheap,,,15/09/2026 06:00
+87f00dc0-b8c2-4801-aa96-ef05ef79690b,technically.day,available,12.98,16.98,low,low,11,namecheap,,,19/09/2026 04:54
 b55eec9b-1476-485e-a277-e01b6152771b,disturb.day,available,16.98,,high,low,7,namecheap,,,
 e90fde5c-d95d-400c-998b-b5e33773eb8f,glad.day,premium,73.75,,high,low,4,name.com,,,
 50f9c1ff-1c8e-4b09-81c4-c078f73e73b9,asterisked.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 08:47
 04958402-0fb0-4cdd-975f-065739fd61da,before.day,premium,311.25,311.25,high,low,6,name.com,,,
-fab8f70d-955e-4f0b-b7fc-84276207ac96,IndianaJones.day,available,16.98,,high,low,13,namecheap,,,
+fab8f70d-955e-4f0b-b7fc-84276207ac96,indianajones.day,available,16.98,,high,low,13,namecheap,,,
 8337e549-9dde-41fa-92e9-1f9c2aaa947f,question.day,premium,311.25,,high,low,8,name.com,,,
 6f927d30-cf24-4b85-a860-76a2c8498eb7,adaptive.day,premium,36.25,36.25,high,low,8,name.com,,,
 76c5d9dd-7bb6-4f2e-b9ee-5b51eaaa9702,bastioned.day,available,12.98,16.98,low,low,9,namecheap,,,09/08/2026 00:12
@@ -254,7 +253,7 @@ a1a25a33-249e-4a01-a9f5-74a47b20144d,picture.day,available,,,high,low,7,,,,
 48aed155-9a60-48c9-86ec-23c90ad0957d,hover.day,premium,36.25,,medium,low,5,name.com,,,
 b27e6d1a-3899-411e-a5db-33b5d23f13f6,aperiodic.day,available,12.98,16.98,low,low,9,namecheap,,,05/08/2026 22:30
 70985cdd-ed1a-446a-bcaa-13ab55e09e0e,derriere.day,available,12.98,16.98,low,low,8,namecheap,,,09/08/2026 11:55
-ed9cfb83-1744-40a4-827a-98ca2ef0cc51,ice.day,premium,648.7,648.7,medium,medium,3,namecheap,,,14/09/2026 04:24
+ed9cfb83-1744-40a4-827a-98ca2ef0cc51,ice.day,premium,648.7,648.7,low,low,3,namecheap,,,19/09/2026 17:13
 b901e710-9a3d-468d-b2c0-6569ed02dc28,jamesbond.day,premium,36.25,,high,low,10,name.com,,,
 a10982e0-5b6f-41e0-9faa-0d2796340666,voicemail.day,available,16.98,,medium,low,10,namecheap,,,
 92a447ad-4c5e-4258-9749-61a74c7f0a75,acinic.day,available,12.98,16.98,low,low,6,namecheap,,,
@@ -265,7 +264,7 @@ b677a9df-7dce-483a-a02c-bfb564f9165c,detest.day,available,16.98,,medium,low,6,na
 b02d491f-bbcf-450f-b808-967ad8e3d88a,hardcurrency.day,available,16.98,,high,low,13,namecheap,,,
 0f98fb96-75ab-4cf9-8674-c3b93d2cf67f,shoppingcentre.day,available,16.98,,high,low,15,namecheap,,,
 2b3cf730-dca8-4584-ac35-ee4368645a1d,sparkly.day,available,12.98,16.98,low,low,7,namecheap,,,
-d8f6c0b6-2705-4071-bb0c-e445a1aebfb0,SouthCarolina.day,premium,36.25,,low,low,14,name.com,,,
+d8f6c0b6-2705-4071-bb0c-e445a1aebfb0,southcarolina.day,premium,36.25,,low,low,14,name.com,,,
 e46d554d-3cf9-4307-97a9-d688b7360a88,bachelor.day,premium,161.25,,high,low,8,name.com,,,
 62690e26-fe0e-4a90-92ee-d090a4cf1609,befouled.day,available,12.98,16.98,low,low,8,namecheap,,,09/08/2026 08:57
 8fdc57ba-729f-4f2f-8d65-469fc8f5bff0,testimony.day,available,16.98,,medium,low,9,namecheap,,,
@@ -275,7 +274,7 @@ de66a5b5-a169-4ff7-9801-d1d91e0a45a9,aphaeretic.day,available,12.98,16.98,low,lo
 64376d54-d512-4933-9b78-efc2fa9516e8,missinginaction.day,available,16.98,,medium,low,17,namecheap,,,
 5ac2781a-48dd-4583-8199-0364638478a7,garbed.day,available,12.98,16.98,low,low,6,namecheap,,,06/08/2026 04:52
 11b26f55-0e39-4bf0-b076-0698e8fd5373,oddfish.day,available,16.98,,low,low,8,namecheap,,,
-8d8c16bf-9759-40f9-99ac-b3a2bff4547f,RedNoseDay.day,available,16.98,,low,low,12,namecheap,,,
+8d8c16bf-9759-40f9-99ac-b3a2bff4547f,rednoseday.day,available,16.98,,low,low,12,namecheap,,,
 fc4635f2-fe0a-4aa5-bedf-354b876a533c,member.day,premium,311.25,,high,low,6,name.com,,,
 bcbdc847-85d9-4c76-bd96-ecef523bb306,offspring.day,available,16.98,,high,low,9,namecheap,,,
 a531b854-9a34-4169-91da-e07dc1a8eedd,sham.day,premium,36.25,36.25,low,low,4,name.com,,,07/08/2026 08:06
@@ -287,7 +286,7 @@ d196ec7e-cab2-4f74-9983-a96cfb5ef525,spf.day,premium,73.75,,high,low,3,name.com,
 a97866a0-8c09-4615-ba84-477f13d0bc81,laughable.day,available,16.98,,medium,low,9,namecheap,,,
 444505ea-18b5-461c-a686-766da8e6f435,thinkagain.day,available,16.98,,low,low,11,namecheap,,,
 2d17bd4b-18ab-4a14-b4e3-61e809cd3dfe,terrified.day,available,16.98,,medium,low,9,namecheap,,,
-3a2de38a-ace2-46fe-be32-cb364e78225a,RedSquare.day,available,16.98,,low,low,10,namecheap,,,
+3a2de38a-ace2-46fe-be32-cb364e78225a,redsquare.day,available,16.98,,low,low,10,namecheap,,,
 8d4ac469-59e2-460e-a241-23683e6fdbf1,abuse.day,premium,167.7,167.7,medium,low,5,namecheap,,,08/09/2026 12:39
 6e6f654f-e8d9-4365-8cac-adf0ca3e3485,portuguese.day,premium,36.25,,high,low,10,name.com,,,
 97c974f9-b977-4f25-b0f6-aa5b00ec2caa,baffling.day,available,12.98,16.98,low,low,8,namecheap,,,08/08/2026 08:02
@@ -350,7 +349,7 @@ b5a1befc-ddbd-4164-bf2c-9fe0d3283807,adjunctive.day,available,12.98,16.98,low,lo
 90eb6ea0-5563-4f9a-89b2-af1e09b69380,tip.day,premium,311.25,,high,low,3,name.com,,,
 fb797ca2-7079-4b8b-8dd9-6c0b3d705cc6,activated.day,available,14.99,19.99,high,low,9,name.com,,,
 2070aa5c-4fac-4a00-985d-df10ce416174,mixedgrill.day,available,16.98,,high,low,11,namecheap,,,
-7f11dfed-4690-4af8-ba42-ca11c336d623,Idonotknowit.day,available,16.98,,medium,low,16,namecheap,,,
+7f11dfed-4690-4af8-ba42-ca11c336d623,idonotknowit.day,available,16.98,,medium,low,16,namecheap,,,
 ad49ca48-bcd4-4b5d-8095-2121061cf9ee,gate.day,premium,311.25,,high,low,4,name.com,,,
 49d7b114-7925-4d44-b286-e5ff617bfdbb,girth.day,available,16.98,,high,low,5,namecheap,,,
 94b82b42-0c72-4113-a2ed-397c736b4f3d,posting.day,premium,73.75,,high,low,7,name.com,,,
@@ -361,14 +360,14 @@ c99ac9be-2712-458d-9f8d-91436b8ef1d3,arboriform.day,available,12.98,16.98,low,lo
 50bca450-65f2-4f7f-8189-dcf97d82b9a8,atonic.day,available,12.98,16.98,low,low,6,namecheap,,,07/08/2026 13:54
 a235ece8-330b-40cb-a0ce-4acf7c8251cc,beaming.day,available,12.98,16.98,low,low,7,namecheap,,,09/08/2026 04:03
 f51d89e0-dc61-46fe-94aa-8d8e924ba227,macedonia.day,available,,,high,low,9,,,,
-8f408dd4-e2ba-4b4f-be1c-2584eaf573a3,Czechoslovakia.day,available,16.98,,medium,low,14,namecheap,,,
+8f408dd4-e2ba-4b4f-be1c-2584eaf573a3,czechoslovakia.day,available,16.98,,medium,low,14,namecheap,,,
 303c771d-a63d-4e59-8181-19277a44b954,cracking.day,available,12.98,16.98,low,low,8,namecheap,,,08/08/2026 12:25
-79900ed0-a1a8-455a-a025-942b90bf5694,Cadillac.day,available,16.98,,high,low,8,namecheap,,,
+79900ed0-a1a8-455a-a025-942b90bf5694,cadillac.day,available,16.98,,high,low,8,namecheap,,,
 38ac9a7f-4ede-4f27-ba1a-d163be5050b1,intersection.day,available,16.98,,medium,low,12,namecheap,,,
 72d9a50a-b062-470f-9089-2bd4bdc8cfb6,push.day,premium,311.25,,medium,low,4,name.com,,,
 3a63dd3b-9418-4ead-a14c-6087d6d55b43,lowtech.day,available,16.98,,medium,low,8,namecheap,,,
 1eb98bcc-7f91-4fe1-91bb-978c2285db82,tone.day,premium,311.25,,medium,low,4,name.com,,,
-cb705ed6-b2ae-4625-ad94-1b57a7952d5b,Ilikethat.day,available,16.98,,medium,low,11,namecheap,,,
+cb705ed6-b2ae-4625-ad94-1b57a7952d5b,ilikethat.day,available,16.98,,medium,low,11,namecheap,,,
 020d0936-aad6-442b-946f-779a3ad134ac,axial.day,premium,36.25,,high,low,5,name.com,,,
 892120d6-9a24-4da3-b122-fc8f1c7709c0,brought.day,available,16.98,,medium,low,7,namecheap,,,
 d4ae9cac-0277-4dfc-a377-8c05614688ee,join.day,available,,,high,medium,4,,,,
@@ -388,20 +387,20 @@ b4df5a4f-3db9-45f1-a13a-4ac020c140cc,marble.day,premium,161.25,,medium,low,6,nam
 40e2fefd-50b2-4dab-9d95-6450c59f9d0c,webbrowser.day,available,16.98,,high,low,11,namecheap,,,
 9e6846e1-e946-417a-8074-23e1cb929097,acoustic.day,premium,36.25,36.25,low,low,8,name.com,,,
 ec19abbe-8a90-4529-929f-b53ab932aa48,been.day,premium,311.25,,medium,low,4,name.com,,,
-6afd069d-edf1-46e8-80ee-3e7cb45a7d1c,WestCountry.day,available,16.98,,low,low,12,namecheap,,,
+6afd069d-edf1-46e8-80ee-3e7cb45a7d1c,westcountry.day,available,16.98,,low,low,12,namecheap,,,
 da56bd95-a0ce-4692-8ef6-f6d63793d781,obscene.day,available,12.98,16.98,low,low,7,namecheap,,,
 eff596c4-c4d3-4cef-a39f-57637ef7b034,symbol.day,premium,73.75,,high,low,6,name.com,,,
 94202285-d8b9-453f-ac9b-15bfa6e9ec37,lxxviii.day,available,12.98,16.98,low,low,7,namecheap,,,
 c80503e3-fe90-4a6b-9a0b-9a88077278f1,campaign.day,premium,161.25,,high,low,8,name.com,,,
 ba9cefff-d7e8-4cdb-a23c-ea271ea15ffc,opportunityroom.day,available,16.98,,high,low,16,namecheap,,,
-9fbe700c-f117-448d-be3b-febcd23028af,restrict.day,available,12.98,16.98,low,low,8,namecheap,,,14/09/2026 04:21
+9fbe700c-f117-448d-be3b-febcd23028af,restrict.day,available,12.98,16.98,low,low,8,namecheap,,,19/09/2026 17:10
 58b53e41-e8ee-4295-8ebb-06161048fe33,shy.day,premium,73.75,,medium,low,3,name.com,,,
 27686f9a-b159-40c1-abde-161700f53cec,focalpoint.day,available,16.98,,high,low,11,namecheap,,,
 c1af34c7-5d86-478c-ad11-38f11eddde05,astragalar.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 09:54
 c157beab-1478-46db-93cb-c0498a963c31,comerainorshine.day,available,16.98,,medium,low,18,namecheap,,,
-b2e83d3b-38c1-485e-ba6e-6392527ecc68,Stars.day,premium,623.75,,high,low,5,name.com,,,
+b2e83d3b-38c1-485e-ba6e-6392527ecc68,stars.day,premium,623.75,,high,low,5,name.com,,,
 f29860f6-6ba4-4e88-a165-b8f1f107cca0,travelling.day,premium,36.25,,high,low,10,name.com,,,
-0f39a516-fed0-46cf-926e-49ca268151f3,SSI.day,premium,73.75,,high,low,3,name.com,,,
+0f39a516-fed0-46cf-926e-49ca268151f3,ssi.day,premium,73.75,,high,low,3,name.com,,,
 d36bbf4f-e1d5-4b33-935f-3d8c8e6801e2,hazard.day,premium,36.25,,medium,low,6,name.com,,,
 0a91aac2-83e8-4db1-9e4f-d9de1c1ce1a5,dry.day,premium,161.25,161.25,high,low,3,name.com,,,
 f63eef4f-1b9f-42f1-ba0f-16f42e7e66e8,lowercase.day,available,16.98,,high,low,9,namecheap,,,
@@ -412,13 +411,13 @@ cccee83b-f068-4f32-98be-60e24f69a2ac,hamilton.day,premium,161.25,,medium,medium,
 8d79f6b3-9c81-454a-9fda-104d3ca77c08,bearable.day,available,12.98,16.98,low,low,8,namecheap,,,09/08/2026 04:27
 440f14a9-2e40-4552-bcf5-6f29d6abf2f1,unlimited.day,premium,311.25,,high,low,9,name.com,,,
 604226fd-23f8-49c5-8bfb-8bcd19710931,definitively.day,available,16.98,,medium,low,12,namecheap,,,
-51ae23fa-9161-4bb3-865f-29ee70c6b77f,process.day,premium,648.7,648.7,medium,low,7,namecheap,,,15/09/2026 03:30
+51ae23fa-9161-4bb3-865f-29ee70c6b77f,process.day,premium,648.7,648.7,medium,low,7,namecheap,,,19/09/2026 12:26
 8e256cf6-b1e2-47cc-bb00-37c0e702d306,formalize.day,available,16.98,,high,low,9,namecheap,,,
 77420d5e-d0a0-466b-b5c7-a071199d317d,ethnic.day,premium,73.75,,high,low,6,name.com,,,
 b845d63a-bf30-401f-b250-08b3b4e00328,barter.day,premium,73.75,,medium,low,6,name.com,,,
 54ec40dd-db0f-464f-aec1-7abb5e8b9887,east.day,premium,623.75,623.75,high,low,4,name.com,,,
 f7ba4562-0124-4beb-af99-da202f7fb8c1,attendant.day,available,14.99,19.99,high,low,9,name.com,,,
-16c21674-a4cd-4a44-95da-0296c18a4d99,Wikimedia.day,available,,,low,low,9,,,,
+16c21674-a4cd-4a44-95da-0296c18a4d99,wikimedia.day,available,,,low,low,9,,,,
 6918df9a-8d7f-4231-9312-a7555b4724b5,batwing.day,available,12.98,16.98,low,low,7,namecheap,,,09/08/2026 01:49
 134f3aad-327c-4b84-8099-7606dd561554,right.day,premium,623.75,623.75,high,low,5,name.com,,,
 c41b9feb-5847-451f-82d8-ce20c29ff11e,aftuh.day,available,16.98,,medium,low,5,namecheap,,,
@@ -470,7 +469,6 @@ dee9116a-9ad4-4daa-8621-5ee0c498f3fb,investments.day,premium,73.75,,medium,low,1
 dda650be-a77a-4815-880a-bca272f773ea,digitally.day,available,16.98,,medium,low,9,namecheap,,,
 c0d8b7e1-473c-4cad-8b94-5bd528a51800,cornered.day,available,12.98,16.98,low,low,8,namecheap,,,07/08/2026 11:02
 d17a21ce-88c6-4028-8062-0f058a753ab1,purpose.day,premium,161.25,,high,low,7,name.com,,,
-fd8d1341-233c-4a66-8bee-d73052a2a212,woo.day,available,,,medium,low,3,,,,
 1e2471c0-d3d1-4f52-9e0f-701b331cb9fa,makehaste.day,available,16.98,,high,low,10,namecheap,,,
 0224eea2-9b01-4632-b24d-993dcea5af36,carry.day,available,,,medium,low,5,,,,
 29aa631a-eb0f-4f67-b28c-38d5a5049081,outing.day,available,16.98,,high,low,6,namecheap,,,
@@ -489,7 +487,7 @@ fdeebe23-b355-4dd2-8393-a8a3583ac455,beige.day,premium,36.25,36.25,low,low,5,nam
 04d11f6f-e728-46c8-9ea5-8634106873b8,restriction.day,available,16.98,,low,low,11,namecheap,,,
 77abf03e-f4ea-46fc-846c-47a9008711c4,pussy.day,premium,485.64,,medium,low,5,"Sav.com, LLC",17/11/2025 19:54,17/11/2026 19:54,
 05b1478b-b93b-4e12-9d57-b0a4eee5c9dc,twoscore.day,available,12.98,16.98,low,low,8,namecheap,,,
-f55d9314-74a9-4422-8a2a-9c076110baf0,Imustsay.day,available,16.98,,medium,low,10,namecheap,,,
+f55d9314-74a9-4422-8a2a-9c076110baf0,imustsay.day,available,16.98,,medium,low,10,namecheap,,,
 ceb39607-36e7-44ca-81e2-01033a06361f,xciii.day,available,12.98,16.98,low,low,5,namecheap,,,
 d0d8fed2-d6e7-4d2f-a333-f29c63cbf310,teenager.day,premium,73.75,73.75,medium,low,8,name.com,,,
 9bb0520a-d472-4698-a7e1-aa37665f80ad,country.day,premium,623.75,,high,low,7,name.com,,,
@@ -541,7 +539,7 @@ d477a4cb-e2ee-4d59-b519-b57b17cd0953,drivehome.day,available,16.98,,high,low,10,
 291404c0-7ad2-4bde-a077-4782631b6a1c,acinose.day,available,12.98,16.98,low,low,7,namecheap,,,
 37fbb11b-5b51-4df0-876b-fbbe4165d7b3,technicality.day,available,16.98,,low,low,12,namecheap,,,
 d74a1c87-2264-409a-b1e4-a3ffa6f665fb,universe.day,premium,623.75,,high,low,8,name.com,,,
-c74c8d01-4dcd-49fb-8c09-4edda47ec2d1,midOctober.day,available,16.98,,high,low,11,namecheap,,,
+c74c8d01-4dcd-49fb-8c09-4edda47ec2d1,midoctober.day,available,16.98,,high,low,11,namecheap,,,
 40c4fa4e-998e-45f7-ad47-324177a00618,streetlight.day,available,16.98,,low,low,12,namecheap,,,
 d4193b74-abc6-49ab-a1dc-44b1dfc0eb35,letterruling.day,available,16.98,,medium,low,13,namecheap,,,
 4b3bb046-9e57-43c7-b0e9-3d2639243d34,longitude.day,available,16.98,,medium,low,9,namecheap,,,
@@ -559,7 +557,7 @@ c20b87ba-9e24-4fb5-90a4-728f2b4141ef,frustrate.day,available,14.99,19.99,high,lo
 0dd77a34-ba86-4f4a-baa9-c16b6ec1311d,convenient.day,available,16.98,,high,low,10,namecheap,,,
 766a241b-0448-4fc2-8a73-1600843d5f7e,tiein.day,available,12.98,16.98,low,low,6,namecheap,,,07/08/2026 06:59
 da585396-3474-447b-8447-3f071628ccc6,discdrive.day,available,16.98,,high,low,10,namecheap,,,
-637836b2-3cc5-4a83-b84c-9b07849c7a4a,Iamafraidofthis.day,available,16.98,,medium,low,19,namecheap,,,
+637836b2-3cc5-4a83-b84c-9b07849c7a4a,iamafraidofthis.day,available,16.98,,medium,low,19,namecheap,,,
 63da443c-b01e-46c9-a7a4-f046a1d3eac2,organic.day,premium,648.7,648.7,medium,low,7,namecheap,,,08/09/2026 11:55
 fbb861c9-0199-4ca1-b858-4ad379bcfd64,bangup.day,available,12.98,16.98,low,low,7,namecheap,,,08/08/2026 12:10
 4bc4eb70-8dc5-4b30-9e5a-4fd59274a479,intheoldtimes.day,available,16.98,,medium,low,16,namecheap,,,
@@ -584,7 +582,7 @@ cd814dfa-03ff-4566-b0f8-5b833781f957,chip.day,premium,311.25,311.25,high,low,4,n
 79d48c6c-59eb-4fe5-8ceb-f543e56822fa,ideally.day,available,16.98,,medium,low,7,namecheap,,,
 05292664-36ff-4eb9-96e1-cdd14a57b3a2,fence.day,premium,73.75,,high,low,5,name.com,,,
 d5aa4aa2-aa14-4bd8-b9e2-5f947943f29e,loads.day,premium,36.25,,high,low,5,name.com,,,
-8f2bebc5-32b6-46f4-954b-374800c2cfe9,Ihearyousay.day,available,16.98,,medium,low,14,namecheap,,,
+8f2bebc5-32b6-46f4-954b-374800c2cfe9,ihearyousay.day,available,16.98,,medium,low,14,namecheap,,,
 b9039303-0f4b-45eb-b713-3a0e3b727901,travel.day,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 348768ac-e56f-4276-b547-e67418e1b405,luncheonmeat.day,available,16.98,,high,low,13,namecheap,,,
 0c9647d6-6330-475a-b2f4-b81e7d26d792,oilandwater.day,available,16.98,,low,low,13,namecheap,,,
@@ -601,10 +599,10 @@ cc29f4c9-4786-4803-8848-dff240a5bf96,hug.day,premium,161.25,,high,low,3,name.com
 c6731e73-39ca-4bcc-9474-95709d4d7921,wanted.day,premium,311.25,,high,low,6,name.com,,,
 cf1728e5-5dab-4a9b-8f39-9942f85e4224,ascensive.day,available,12.98,16.98,low,low,9,namecheap,,,07/08/2026 00:46
 e2e9be4b-d17a-44f1-8ec8-bb94fd6171f8,inregardsto.day,available,16.98,,medium,low,13,namecheap,,,
-cc2a851c-374c-4a69-bc12-e100e8a8d11d,Gregg.day,available,16.98,,medium,low,5,namecheap,,,
+cc2a851c-374c-4a69-bc12-e100e8a8d11d,gregg.day,available,16.98,,medium,low,5,namecheap,,,
 75acaeb2-1d7f-4363-96ac-4b8336ecedf8,wideopen.day,available,16.98,,medium,low,9,namecheap,,,
 e0e9d47c-0e52-4caf-8155-4067b9c215d4,invigorate.day,available,16.98,,high,low,10,namecheap,,,
-c7e034df-9f26-4526-a9ea-c3b2d76719a5,GreenPark.day,available,16.98,,medium,low,10,namecheap,,,
+c7e034df-9f26-4526-a9ea-c3b2d76719a5,greenpark.day,available,16.98,,medium,low,10,namecheap,,,
 3d5ebed5-5095-4c94-b533-30c54c705d4b,marktwain.day,available,16.98,,high,low,10,namecheap,,,
 e9c42278-f6fe-4fa1-81c1-9996353afb0d,barshaped.day,available,12.98,16.98,low,low,10,namecheap,,,08/08/2026 15:16
 2eb83e96-f913-4775-a994-47735f44e715,atthelast.day,available,16.98,,medium,low,11,namecheap,,,
@@ -637,7 +635,7 @@ c20620dd-1eaa-4f7b-bef9-72d182f12f12,alarmed.day,available,12.98,16.98,low,low,7
 d646b3f6-cd7f-47c8-b28f-270257cde979,columbia.day,premium,161.25,,medium,medium,8,name.com,,,
 ce16ea72-d071-4abe-b2e2-28e85fe48496,rice.day,premium,311.25,,high,low,4,name.com,,,
 4114904a-1ede-47aa-8443-e1a94ad8165f,clxxv.day,available,12.98,16.98,low,low,5,namecheap,,,
-ebeb564d-4ff5-423a-91fc-1e9c683c1a1d,firm.day,premium,311.25,,high,low,4,name.com,,,
+ebeb564d-4ff5-423a-91fc-1e9c683c1a1d,firm.day,premium,323.7,323.7,medium,low,4,namecheap,,,20/09/2026 02:35
 89ff71e7-60dc-405f-97c6-c169b2ff08f3,wakingup.day,available,16.98,,high,low,9,namecheap,,,
 f72d7631-5d3a-40fb-9798-2c756c20b83f,sue.day,premium,73.75,,high,low,3,name.com,,,
 672c1578-e884-44c6-93d3-0c0d78219616,algonkian.day,available,12.98,16.98,low,low,9,namecheap,,,
@@ -658,15 +656,15 @@ c5c02a27-5e52-489d-b3a2-f74644e714d5,vampire.day,premium,161.25,,high,low,7,name
 30ae0e08-3e06-42e5-898b-9163b688cf8e,argive.day,available,12.98,16.98,low,low,6,namecheap,,,06/08/2026 18:27
 7b81df4a-f8ef-4bb7-9ef0-1c899802dc9a,who.day,available,,,medium,low,3,,,,
 830ede64-7d63-4c75-9b14-d1b70c8c97e9,stepson.day,available,16.98,,high,low,7,namecheap,,,
-35af985f-9724-4bf6-9b9c-d66f2b7f234c,begin.day,premium,161.25,161.25,medium,low,5,name.com,,,15/09/2026 05:53
+35af985f-9724-4bf6-9b9c-d66f2b7f234c,begin.day,premium,167.7,167.7,medium,low,5,namecheap,,,19/09/2026 05:29
 1267a26a-2f05-403e-82ce-8fd7fa851ab4,howgoesthebattle.day,available,16.98,,medium,low,19,namecheap,,,
 c6320b25-f582-46a4-a673-fff4c76ff920,letterspacing.day,available,16.98,,medium,low,14,namecheap,,,
-82612598-9f81-46a3-8bc5-193af6c47adc,client.day,premium,648.7,648.7,medium,low,6,namecheap,,,13/09/2026 03:27
+82612598-9f81-46a3-8bc5-193af6c47adc,client.day,premium,648.7,648.7,low,low,6,namecheap,,,19/09/2026 04:09
 bd707566-21b4-484f-a56f-df22580f06a0,delivery.day,premium,648.7,648.7,high,low,8,namecheap,,,
 200fd9cb-af2b-4fe3-8f53-73077abfcffd,gotobedwith.day,available,16.98,,medium,low,14,namecheap,,,
 178a9bb6-ae8c-46b0-9701-c04ecfaa601f,able.day,premium,623.75,623.75,high,low,4,name.com,,,
 c0e4efc1-0ab6-4c0c-a8ce-0bb38e47b3cd,weave.day,premium,73.75,,high,low,5,name.com,,,
-68dd59de-1d9e-4c1c-8e28-0e332c4adf25,intruth.day,available,12.98,16.98,low,low,8,namecheap,,,15/09/2026 07:18
+68dd59de-1d9e-4c1c-8e28-0e332c4adf25,intruth.day,available,12.98,16.98,low,low,8,namecheap,,,19/09/2026 10:53
 8295388c-7b48-4663-a976-43ef6efed5ac,stray.day,available,16.98,,high,low,5,namecheap,,,
 fac480a9-bc2f-4259-a89b-3f9a64e36c19,affective.day,available,12.98,16.98,low,low,9,namecheap,,,
 8f96503b-4d7a-4677-b073-856a48c964e8,perfervid.day,available,12.98,16.98,low,low,9,namecheap,,,06/08/2026 16:29
@@ -725,7 +723,7 @@ bfbbcc7a-a00b-4fbe-9651-a5af262de07d,torrid.day,available,12.98,16.98,low,low,6,
 20348c7a-6b9f-4133-a481-7305096f3274,soil.day,premium,161.25,161.25,high,low,4,name.com,,,
 cba59837-745d-41ad-ab3e-d3a0b3947189,outlet.day,premium,311.25,,high,low,6,name.com,,,
 0883c98f-032e-4b23-bf05-ec2adefaec6f,basketball.day,premium,311.25,,high,low,10,name.com,,,
-73560753-3301-4dc5-b28e-cfbfedd7df86,Leia.day,premium,36.25,,high,low,4,name.com,,,
+73560753-3301-4dc5-b28e-cfbfedd7df86,leia.day,premium,36.25,,high,low,4,name.com,,,
 fca1d8f7-3b51-4d31-a717-faf514c9643e,annular.day,available,12.98,16.98,low,low,7,namecheap,,,
 5188d39b-cd7c-4438-86f2-870a0e990c28,bloodclot.day,available,16.98,,medium,low,10,namecheap,,,
 1de8fb7b-f9a6-4e98-a978-b3c54d9bfbfb,vocal.day,premium,73.75,,high,low,5,name.com,,,
@@ -748,7 +746,7 @@ a8f5d1fa-9fcb-4196-b608-b4528fabd5ec,fired.day,available,14.99,19.99,medium,low,
 bb212a43-45c2-4f84-91a7-4b593842ddf6,gala.day,premium,161.25,,high,low,4,name.com,,,
 e614161f-2562-46ee-a8cb-ac1ab28647af,foundingfather.day,available,16.98,,high,low,15,namecheap,,,
 88f2846f-f029-49c0-a2b2-de36f8034923,tuesday.day,premium,1248.75,,high,low,7,name.com,,,
-9b02cb56-a983-4c7e-8391-00bf57580538,MMR.day,premium,73.75,,high,low,3,name.com,,,
+9b02cb56-a983-4c7e-8391-00bf57580538,mmr.day,premium,73.75,,high,low,3,name.com,,,
 f02cda56-3a64-4c58-a91b-45e0ecbef876,alias.day,premium,36.25,,high,low,5,name.com,,,
 fda01e6b-04cd-4d99-a735-64f338501c3b,feels.day,premium,73.75,,high,low,5,name.com,,,
 30f4f668-c706-4bf2-a9bb-8b2d1a72c842,coffeebreak.day,available,16.98,,high,low,12,namecheap,,,
@@ -772,7 +770,7 @@ c7454d17-1edb-4d29-8c83-ba6be07e9e8a,xxxviii.day,available,12.98,16.98,low,low,7
 9388e895-a789-4263-ae96-49da84824503,along.day,available,,,medium,low,5,,,,
 30b0adca-0f5e-4de1-838e-346ef18c2f12,last.day,premium,623.75,,high,low,4,name.com,,,
 92ee1328-60d0-43cf-80c4-969b19e0bc2c,numlock.day,available,16.98,,medium,low,8,namecheap,,,
-38c3ad69-7f77-4417-990a-27a738ef3e78,Yukongold.day,available,16.98,,medium,low,10,namecheap,,,
+38c3ad69-7f77-4417-990a-27a738ef3e78,yukongold.day,available,16.98,,medium,low,10,namecheap,,,
 1b5fad6d-59ff-46f7-ab6c-f6893db7b122,tabletennis.day,available,16.98,,medium,low,12,namecheap,,,
 7448051e-b923-4e03-8698-b6b26856613f,fill.day,premium,311.25,,medium,low,4,name.com,,,
 df5a153d-1912-4562-b74e-6ceb5410f3ea,berried.day,available,12.98,16.98,low,low,7,namecheap,,,08/08/2026 04:45
@@ -787,8 +785,8 @@ e1b10273-1614-44cc-83e9-82fd4fb1a2e4,arborous.day,available,12.98,16.98,low,low,
 7c77063c-8ee9-4e9a-aea2-5ffc5dfff2dc,lxxi.day,available,12.98,16.98,low,low,4,namecheap,,,
 1d280f63-8a75-4e6e-b070-b7441c516c81,meaning.day,premium,73.75,,high,low,7,name.com,,,
 13636d1e-04fb-4129-8f9b-151fbf3b8cf0,affluence.day,available,16.98,,high,low,9,namecheap,,,
-fa9db684-7bb7-473b-889f-44247e660cf2,Spanishrice.day,available,16.98,,low,low,12,namecheap,,,
-c47da185-67c3-411c-99aa-51392f24352e,protection.day,premium,323.7,323.7,medium,low,10,namecheap,,,14/09/2026 02:57
+fa9db684-7bb7-473b-889f-44247e660cf2,spanishrice.day,available,16.98,,low,low,12,namecheap,,,
+c47da185-67c3-411c-99aa-51392f24352e,protection.day,premium,323.7,323.7,medium,low,10,namecheap,,,19/09/2026 09:47
 9328612d-2010-4c0c-822d-b1f2d6093f69,makefunof.day,available,16.98,,high,low,11,namecheap,,,
 17c92aff-539d-4479-9901-d430eefea2c3,year.day,premium,623.75,,high,low,4,name.com,,,
 e417f86f-608f-41a7-8ba3-9dd4b08795fa,bellicose.day,available,12.98,16.98,low,low,9,namecheap,,,09/08/2026 01:44
@@ -804,7 +802,7 @@ d4d065f6-9e41-4663-bac4-2a38e791fa81,dick.day,resell,,,medium,low,4,Porkbun LLC,
 451aae14-87e1-485a-a43c-afd6178d1e8f,mixing.day,premium,73.75,,high,low,6,name.com,,,
 418b0397-9e59-47a0-89b5-9272e03c0eac,amendatory.day,available,12.98,16.98,low,low,10,namecheap,,,
 952e9bc8-1d1b-4be0-a167-0dedd8bf7f2a,ascribable.day,available,12.98,16.98,low,low,10,namecheap,,,07/08/2026 01:17
-8b39d53f-6fd4-491a-b721-e150ebb3a498,connected.day,premium,167.7,167.7,medium,medium,9,namecheap,,,13/09/2026 03:43
+8b39d53f-6fd4-491a-b721-e150ebb3a498,connected.day,premium,167.7,167.7,low,low,9,namecheap,,,19/09/2026 11:24
 a04f18cc-87c5-4712-8306-1fd023573b0b,greenparty.day,available,16.98,,medium,low,11,namecheap,,,
 21ff0ac4-0348-4b12-9820-05cce83dd00e,wealthy.day,premium,36.25,36.25,high,low,7,name.com,,,
 1361102e-8171-40d6-bde8-c6e6face8a7f,amphibious.day,available,12.98,16.98,low,low,10,namecheap,,,
@@ -840,7 +838,7 @@ e84532c3-a85b-4c55-be0b-c6e92edbf9c6,apologize.day,available,16.98,,high,low,9,n
 07c71583-6869-4180-a709-7c3df785ef5c,haywire.day,available,12.98,16.98,low,low,7,namecheap,,,
 2e4ac17e-f6e0-4929-97cf-e512ec60aa6b,quivive.day,available,12.98,16.98,low,low,8,namecheap,,,
 4b939266-a125-4db8-900c-b751a7be67c9,airheaded.day,available,12.98,16.98,low,low,9,namecheap,,,
-7c34b70e-5288-44eb-a3d4-2403b484ec0c,AustraliaDay.day,available,16.98,,high,low,13,namecheap,,,
+7c34b70e-5288-44eb-a3d4-2403b484ec0c,australiaday.day,available,16.98,,high,low,13,namecheap,,,
 af64af86-6524-41d8-afc3-289af8e5f937,beneath.day,available,16.98,,medium,low,7,namecheap,,,
 08fe84e0-69d1-4093-8889-5bd171bfda7e,translation.day,premium,161.25,,medium,low,11,name.com,,,
 2ff5e1e3-ac00-450b-bf9d-d123746c48b8,totime.day,available,16.98,,low,low,7,namecheap,,,
@@ -867,7 +865,7 @@ af8dde3d-2105-4f26-ab84-1d0ebfa02969,microwave.day,premium,36.25,,high,low,9,nam
 8c4cb060-f082-4d09-a61f-23d84024b7be,disk.day,premium,161.25,,high,low,4,name.com,,,
 d33dda4a-56c0-4bc2-9910-b74960993cb9,massage.day,premium,623.75,,high,low,7,name.com,,,
 abad8373-f773-48e2-be9b-bd12b2aa7773,telephonecall.day,available,16.98,,medium,low,14,namecheap,,,
-15a51a7b-1ccd-43a7-9dc6-eb1193d9a78c,ColonelSanders.day,available,16.98,,high,low,15,namecheap,,,
+15a51a7b-1ccd-43a7-9dc6-eb1193d9a78c,colonelsanders.day,available,16.98,,high,low,15,namecheap,,,
 bcb9067c-801d-4ba8-ae09-b88a0b91af2c,formless.day,available,12.98,16.98,low,low,8,namecheap,,,
 c3e7b6b1-4669-4580-ba71-538ba7b679c7,adducting.day,available,12.98,16.98,low,low,9,namecheap,,,
 eb8b0b70-9e49-4711-a240-c4d1f6849790,batrachian.day,available,12.98,16.98,low,low,10,namecheap,,,05/08/2026 20:53
@@ -890,12 +888,12 @@ c3abb639-a5b2-4205-9390-4fa9f842ed97,useful.day,premium,161.25,,high,low,6,name.
 a72f184e-56b2-4274-9edb-17a5cc10a984,informing.day,available,16.98,,medium,low,9,namecheap,,,
 144c7fad-4cfd-4bd4-84e9-799da531a782,antenna.day,premium,73.75,,high,low,7,name.com,,,
 e32174f3-fb78-4b40-946e-5eba7384e24c,introduce.day,available,16.98,,high,low,9,namecheap,,,
-179eb90c-cabe-4d3f-88c4-4d725e3c6d04,BlackThursday.day,available,16.98,,medium,low,14,namecheap,,,
+179eb90c-cabe-4d3f-88c4-4d725e3c6d04,blackthursday.day,available,16.98,,medium,low,14,namecheap,,,
 321f9a82-9a9b-4e17-95a3-1a91dfc4759d,these.day,premium,161.25,,medium,low,5,name.com,,,
 b9827aae-7080-4696-84b2-62eab3f7db74,potatocrisp.day,available,16.98,,high,low,12,namecheap,,,
 2b207c50-b1f5-4090-8158-e15f780f96f4,fortyfour.day,available,12.98,16.98,low,low,10,namecheap,,,
 e7591c83-4370-451e-b693-a98e5cef0418,buttony.day,available,12.98,16.98,low,low,7,namecheap,,,09/08/2026 03:34
-fce7e2a1-7e50-4121-b5ee-6aa7505d4563,JesusChrist.day,available,16.98,,high,low,12,namecheap,,,
+fce7e2a1-7e50-4121-b5ee-6aa7505d4563,jesuschrist.day,available,16.98,,high,low,12,namecheap,,,
 88e99a3e-9d91-4f52-a04e-a8ae76149eef,canada.day,available,,,high,low,6,,,,
 ba71e272-d4f6-413e-a480-6150fdfc922e,adaptative.day,available,14.99,19.99,high,low,10,name.com,,,
 7bf966b3-6b53-42ff-b676-ae2d7250eb16,wrench.day,available,16.98,,medium,low,6,namecheap,,,
@@ -918,7 +916,7 @@ b4c43f48-47f1-47a1-af1c-f3491401680e,vandalism.day,available,16.98,,medium,low,9
 4b1f0cad-24da-4ea6-bbf0-e9841ad02d0e,disgrace.day,available,16.98,,high,low,8,namecheap,,,
 64b28232-f7b2-4930-922b-e96e30594bbe,upsidedowncake.day,available,16.98,,high,low,16,namecheap,,,
 1e950556-63b0-43e7-801c-abac144291da,repeated.day,available,16.98,,medium,low,8,namecheap,,,
-de3cccf5-7c31-4fad-8aec-ea6799b2f7cd,NWO.day,premium,73.75,,medium,low,3,name.com,,,
+de3cccf5-7c31-4fad-8aec-ea6799b2f7cd,nwo.day,premium,73.75,,medium,low,3,name.com,,,
 48da5bdb-161c-4c6c-b91f-a4c4a86f7a14,gardencentre.day,available,16.98,,high,low,13,namecheap,,,
 b2121428-e753-4ade-bd65-7c30652c26cd,continuous.day,premium,36.25,36.25,high,low,10,name.com,,,
 9b8cb912-8547-48a2-9b2c-204badd89954,capable.day,premium,36.25,36.25,high,low,7,name.com,,,
@@ -938,7 +936,6 @@ a1613e9a-c785-4b7c-b6bd-f5f777be9b66,quickwitted.day,available,16.98,,medium,low
 3fa6bcb7-a13e-4097-a8bc-cdbcb1c5bd42,comely.day,available,12.98,16.98,low,low,6,namecheap,,,09/08/2026 06:13
 934e6526-213e-4d34-b47a-1fb497d64517,billbird.day,available,16.98,,medium,low,9,namecheap,,,
 c14ece00-cde1-4c24-aa90-b243b06683e4,lamppost.day,available,16.98,,medium,low,8,namecheap,,,
-02c65e71-cf4c-482b-8cfd-34bfc34065a0,marketing.day,premium,623.75,,high,medium,9,name.com,,,
 e7d73542-ba03-496c-95a8-0d9629f96063,theft.day,available,12.98,16.98,low,low,5,namecheap,,,08/09/2026 07:55
 8ba6d08d-ab22-4129-8c17-f059ef6f0560,aciculate.day,available,12.98,16.98,low,low,9,namecheap,,,
 084ac8b6-f9e2-451c-8a84-4c8da17c0c5e,staminate.day,available,12.98,16.98,low,low,9,namecheap,,,
@@ -948,7 +945,7 @@ b4fbf683-b243-4270-a6e3-81fe05afdb11,gogreen.day,premium,36.25,,medium,low,8,nam
 98b1c7ef-74f4-4c28-9183-191fdf984d90,bellied.day,available,12.98,16.98,low,low,7,namecheap,,,09/08/2026 13:25
 e6f1c1f8-53ab-4829-bec6-b02d094a15ff,mecca.day,premium,36.25,,high,low,5,name.com,,,
 1621ef90-44c6-4043-b62b-85e2416fa3e8,oliveoil.day,premium,36.25,,medium,low,9,name.com,,,
-aa58c64c-2cd3-4546-825a-efe68ff1b5a4,Goodwin.day,premium,36.25,,medium,low,7,name.com,,,
+aa58c64c-2cd3-4546-825a-efe68ff1b5a4,goodwin.day,premium,36.25,,medium,low,7,name.com,,,
 20fb2362-ea73-4877-a8a1-ae74d327bba3,againstallodds.day,available,16.98,,high,low,16,namecheap,,,
 c91b1feb-b015-4ed6-964c-50b2af8edca3,palliative.day,available,12.98,16.98,low,low,10,namecheap,,,
 4b6ad323-c3eb-434a-8b9b-2ae84bad6094,setaside.day,available,12.98,16.98,low,low,9,namecheap,,,06/08/2026 09:13
@@ -963,7 +960,7 @@ c7c14d3c-8c7d-4f87-90fa-f470c88545bf,astute.day,available,16.98,,high,low,6,name
 562d12f1-0c24-4425-bde5-bd2bf618fc1e,rubbishbin.day,available,16.98,,medium,low,11,namecheap,,,
 f2f92141-1f67-4c56-986e-d4962ad747b5,actable.day,available,12.98,16.98,low,low,7,namecheap,,,
 f6b989fc-25d2-45f2-9aa3-8f6b7f3cce66,primary.day,premium,161.25,,high,low,7,name.com,,,
-5da60ac6-7b2c-41f9-b2de-5c832812ee9e,grandparent.day,available,12.98,16.98,medium,low,11,namecheap,,,15/09/2026 07:07
+5da60ac6-7b2c-41f9-b2de-5c832812ee9e,grandparent.day,available,12.98,16.98,medium,low,11,namecheap,,,19/09/2026 04:27
 7c424b42-529c-4497-a31c-3384e9724514,lose.day,premium,73.75,,medium,low,4,name.com,,,
 6a68ef62-c2dd-45e3-937a-c8b05c70cad8,antepartum.day,available,16.98,,high,low,10,namecheap,,,
 8efb94d2-f294-40ef-9fb2-8ab242235ed5,banking.day,premium,648.7,648.7,high,low,7,namecheap,,,
@@ -999,3 +996,6 @@ f62f7fc5-4f10-42d7-b406-c395a482aad0,computerchip.day,available,12.98,16.98,low,
 50542727-ee4e-4473-9bd0-a0d0f9a21758,while.day,premium,161.25,,high,low,5,name.com,,,
 53f1c6fc-04d0-4613-ab56-765440e5d706,abovementioned.day,available,16.98,,medium,low,15,namecheap,,,
 52f5cbe6-4042-40c5-93dc-d1e1241b6f2a,superuser.day,available,16.98,,high,low,9,namecheap,,,
+0e8282f5-856f-4b1d-90ba-fffbbbe5b0f1,city.day,premium,623.75,,high,medium,4,name.com,,,
+2189f463-9dec-45f3-b7e2-1c0fc879e77f,textile.day,premium,73.75,,high,low,7,name.com,,,
+c39e4e90-7d75-4629-bc04-ccf51fc578cc,amnestic.day,available,12.98,16.98,low,low,8,namecheap,,,
