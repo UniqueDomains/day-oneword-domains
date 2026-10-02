@@ -1,10 +1,10 @@
-# Available .DAY One-Word Domains (30,599)
+# Available .DAY One-Word Domains (32,069)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C599%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C069%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .day one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,599 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,069 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,599 domains · **Median ask:** $57.37 · **High-demand under $2,500:** 45
+**Public extract:** 1,000 rows · **Live catalog:** 32,069 domains · **Median ask:** $55.76 · **High-demand under $2,500:** 48
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/day`
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | bawl.day | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap   |
 | ahl.day  | premium   | $59.20    | —             | high           | low    | 3      | unstoppable |
 | bize.day | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap   |
-| aim.day  | premium   | $167.70   | $167.70       | high           | medium | 3      | namecheap   |
-| bona.day | available | $10.55    | $10.55        | high           | low    | 4      | spaceship   |
 | alb.day  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
-| bows.day | available | $14       | —             | medium         | low    | 4      | unstoppable |
+| bona.day | available | $10.55    | $10.55        | high           | low    | 4      | spaceship   |
 | amc.day  | premium   | $323.70   | $323.70       | high           | medium | 3      | namecheap   |
-| brim.day | available | $12.98    | $16.98        | high           | low    | 4      | namecheap   |
+| bows.day | available | $14       | —             | medium         | low    | 4      | unstoppable |
 | amy.day  | premium   | $323.70   | $323.70       | high           | low    | 3      | namecheap   |
-| burr.day | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap   |
+| brim.day | available | $12.98    | $16.98        | high           | low    | 4      | namecheap   |
 | aye.day  | premium   | $61.27    | $61.27        | medium         | low    | 3      | spaceship   |
-| clad.day | available | $12.98    | $16.98        | high           | low    | 4      | namecheap   |
+| burr.day | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap   |
 | bap.day  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
-| dell.day | available | $12.98    | $16.98        | high           | medium | 4      | namecheap   |
+| clad.day | available | $12.98    | $16.98        | high           | low    | 4      | namecheap   |
 | blm.day  | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship   |
-| eine.day | available | $10.55    | $10.55        | medium         | low    | 4      | spaceship   |
+| dell.day | available | $12.98    | $16.98        | high           | medium | 4      | namecheap   |
 | but.day  | premium   | $648.70   | $648.70       | high           | low    | 3      | namecheap   |
+| eine.day | available | $10.55    | $10.55        | medium         | low    | 4      | spaceship   |
+| chr.day  | premium   | $59.20    | —             | medium         | low    | 3      | unstoppable |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,599 live domains                        |
+| 1,000-row public sample | 32,069 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 45 high-demand names under $2,500          |
+| Basic exported fields   | 48 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
